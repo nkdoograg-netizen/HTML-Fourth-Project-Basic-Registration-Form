@@ -36,18 +36,6 @@ The **CodeRishta Registration Form** allows users to enter their personal inform
 * Buttons
 * Fieldset & Labels
 
-## 🖥️ How to Run
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-2. Open the project folder.
-3. Double-click **index.html** or open it in any web browser.
-
-That's it! 🎉
 
 ## 📸 Form Sections
 
@@ -94,16 +82,6 @@ While creating this project, I practiced:
 * Structuring a webpage using HTML
 * Using basic HTML attributes
 
-## 🔮 Future Improvements
-
-In future versions, I plan to:
-
-* 🎨 Add **CSS** for a modern UI
-* 📱 Improve responsive design
-* ⚡ Add **JavaScript form validation**
-* 💾 Connect the form with a backend/database
-* 🔐 Add better input validation
-* 🌐 Deploy the project online
 
 ## 👨‍💻 Author
 
